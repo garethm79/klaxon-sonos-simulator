@@ -1,5 +1,7 @@
 # Klaxon Sonos Simulator
 
+Preface: This was "vibe coded" using Copilot and a few glasses of Andrew Peace Shiraz. No apologies are given for the result.
+
 A Python-based alert tone generation system that simulates various alarm and warning tones based on the Klaxon Sonos Pulse Sounder Beacon Wall Operations Manual.
 
 ## Overview
